@@ -1,0 +1,6 @@
+{
+	"appId": "com.sinan.fblogin",
+	"appName": "plugs",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">plugs</string>
+    <string name="title_activity_main">plugs</string>
+    <string name="package_name">com.sinan.fblogin</string>
+    <string name="custom_url_scheme">com.sinan.fblogin</string>
+    <string name="facebook_app_id">750445509299797</string>
+<string name="facebook_client_token">750445509299797</string>
+</resources>
